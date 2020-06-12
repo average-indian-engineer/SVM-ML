@@ -1,1 +1,1 @@
-![](docs/assets/Capture.png)
+![](docs/assets/Capture.PNG)
